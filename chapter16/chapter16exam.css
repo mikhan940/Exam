@@ -1,0 +1,46 @@
+@CHARSET "ISO-8859-1";
+body {
+	width: 100%;
+	margin: 0px;
+	background-color: #ecebeb;
+	font-family: verdana;
+}
+#logo {
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	margin: auto;
+	padding: 10px;
+	margin-bottom: 20px;
+	background-color: #7aae2a;
+	box-shadow: 0px 4px 2px -2px gray;
+}
+#fullpage {
+	width: 90%;
+	margin: auto;
+	margin-bottom:20px;
+	margin-top: 80px;
+	background-color: white;
+	box-shadow: 2px 0px 25px rgb(10 10 10);
+	padding: 20px;
+	border-radius: 10px;
+}
+h1 {
+	font-family: serif;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 2px 3px  green;
+}
+hr {
+	height: 5px;
+	background-color: green;
+	border:0px;
+}
+#header	{
+	width: 100%;
+	background-image:url('bg2.jpg');
+	min-height: 500ox;
+	background-size: 100% auto;
+	background-position: 0px -28px;
+	
+}
